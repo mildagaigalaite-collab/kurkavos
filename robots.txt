@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mildagaigalaite-collab.github.io/kurkavos/sitemap.xml
